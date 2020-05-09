@@ -64,7 +64,6 @@ int white()
             return 1;
         }
         break;
-    
     }
     return 0;
 }
@@ -87,7 +86,6 @@ int black()
             return 1;
         }
         break;
-
     }
     return 0;
 }

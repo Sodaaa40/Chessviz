@@ -1,8 +1,7 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "board.h"
 #include "board_print_plain.h"
-
+#include <stdio.h>
+#include <stdlib.h>
 
 char input[7];
 int X1, X2, Y1, Y2;
@@ -28,6 +27,6 @@ int main()
         move();
         printboard();
         break;
-    }    
+    }
     return 0;
 }
