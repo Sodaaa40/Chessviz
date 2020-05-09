@@ -1,2 +1,2 @@
 # Chessviz
-https://travis-ci.com/Sodaaa40/Chessviz.svg?branch=master
+[![Build Status](https://travis-ci.com/Sodaaa40/Chessviz.svg?branch=master)](https://travis-ci.com/Sodaaa40/Chessviz)
